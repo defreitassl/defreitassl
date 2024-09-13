@@ -34,8 +34,14 @@ Atualmente estou estudando programação FullStack Web em geral, buscando adquir
 
 ---
 
-![Douglas Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=defreitassl&show_icons=true&theme=tokyonight)
+![Douglas Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=defreitassl&show_icons=true&theme=tokyonight) 
+
+![Douglas Freitas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defreitassl&layout=compact&theme=tokyonight)
+
+---
 
 ### Fale Comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:douglasamf14@gmail.com)
+
+# Aproveite 👌
