@@ -25,6 +25,7 @@ Atualmente estou estudando programação FullStack Web em geral, buscando adquir
 [![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Selenium](https://img.shields.io/badge/Selenium-49b230?style=for-the-badge&logo=selenium&logoColor=white)]()
 
 ---
 
