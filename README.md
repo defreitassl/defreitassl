@@ -5,7 +5,7 @@ Fui aluno de programação FullStack na Infinity School e por aqui irei comparti
 Por enquanto sou apenas um estudante de tecnologias, mas com muito empenho e força de vontade, a procura da oportunidade certa!!
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-freitas-65602a329/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglas-freitas-236947257)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/defreitassl)
 [![MeuSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://douglasfreitasdev.vercel.app)
 
